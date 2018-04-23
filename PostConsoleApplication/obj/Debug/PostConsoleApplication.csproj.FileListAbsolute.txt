@@ -1,0 +1,14 @@
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\bin\Debug\PostConsoleApplication.exe.config
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\bin\Debug\PostConsoleApplication.exe
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\bin\Debug\PostConsoleApplication.pdb
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.csproj.CopyComplete
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.exe
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.pdb
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.Migrations.Init.resources
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.csproj.GenerateResource.cache
