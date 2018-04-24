@@ -1,4 +1,3 @@
-C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.csproj.CoreCompileInputs.cache
 C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\bin\Debug\PostConsoleApplication.exe.config
 C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\bin\Debug\PostConsoleApplication.exe
@@ -12,3 +11,4 @@ C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\
 C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.pdb
 C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.Migrations.Init.resources
 C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.csproj.GenerateResource.cache
+C:\Projects\Learning Projects\PostConsoleApplication\PostConsoleApplication\obj\Debug\PostConsoleApplication.csprojResolveAssemblyReference.cache
